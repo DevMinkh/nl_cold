@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align='center'>WIP</hi>
+<h2 align='center'>WIP</h2>
 <p align='center'>Just a simple pack of <a href='https://github.com/overextended/ox_target'>ox_target</a> exports. Feel free to add/remove as necessary. Bare in mind that some of the exports will <b>require</b> <a href='overextended/ox_lib'>ox_lib</a> <b>require</b> <a href='overextended/ox_inventory'>ox_inventory</a>.</p>
 
 ---
